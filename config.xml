@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "flappybird.karatebuilderboy.edu.mit.scratch"
+        id          = "flappybird.ikabir0.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
@@ -13,7 +13,7 @@
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
+    <author href="http://scratch.mit.edu/users/ikabir0" email="idrisk04@yahoo.com">
         [Ikabir0]
     </author>
 
